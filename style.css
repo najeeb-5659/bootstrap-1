@@ -1,0 +1,34 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sect1 {
+    background-image: url(images/app-1.jpg);
+    background-position: top;
+    background-size: cover;
+    height: 100vh;
+}
+
+.blue {
+    background-color: #8F76F7;
+    ;
+}
+
+.orange {
+    background-color: #F19B08;
+}
+
+.purple {
+    background-color: #BF46F2;
+}
+
+.grey {
+    background-color: #F2F2F2;
+}
+
+.coll p:hover {
+    color: #BF46F2;
+    transition: 1s;
+}
